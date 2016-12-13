@@ -1,0 +1,40 @@
+let jsonString = `
+{ "lecturers": [
+  { 
+    "firstName":"Dave" ,
+    "lastName":"Everitt",
+    "roomN":"6.1",
+    "email":"test1@email.co.uk"
+  },
+  {
+    "firstName":"Fania",
+    "lastName":"Raczinski",
+    "roomN":"6.1",
+    "email":"test2@email.co.uk"
+  },
+  {
+    "firstName":"Luke",
+    "lastName":"Attwood",
+    "roomN":"6.1",
+    "email":"test3@email.co.uk"
+  },
+  {
+    "firstName":"Jenny",
+    "lastName":"Carter",
+    "roomN":"6.1",
+    "email":"test4@email.co.uk"
+  },
+  {
+    "firstName":"David",
+    "lastName":"Smallwood",
+    "roomN":"6.1",
+    "email":"test5@email.co.uk"
+  },
+  {
+    "firstName":"Clinton",
+    "lastName":"Ingrams",
+    "roomN":"6.1",
+    "email":"test6@email.co.uk"
+  }
+]}
+`;
